@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\SkuService\SKU.Entities\bin\Debug\SKU.Entities.dll
+C:\Users\Asus\Desktop\SkuService\SKU.Entities\bin\Debug\SKU.Entities.pdb
+C:\Users\Asus\Desktop\SkuService\SKU.Entities\obj\Debug\SKU.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SkuService\SKU.Entities\obj\Debug\SKU.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SkuService\SKU.Entities\obj\Debug\SKU.Entities.dll
+C:\Users\Asus\Desktop\SkuService\SKU.Entities\obj\Debug\SKU.Entities.pdb

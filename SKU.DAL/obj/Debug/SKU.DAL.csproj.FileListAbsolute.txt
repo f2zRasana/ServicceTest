@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\bin\Debug\SKU.DAL.dll
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\bin\Debug\SKU.DAL.pdb
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\bin\Debug\SKU.Entities.dll
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\bin\Debug\SKU.Entities.pdb
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\obj\Debug\SKU.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\obj\Debug\SKU.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\obj\Debug\SKU.DAL.dll
+C:\Users\Asus\Desktop\SkuService\SKU.DAL\obj\Debug\SKU.DAL.pdb

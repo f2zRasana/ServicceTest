@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\bin\Debug\SKU.BLL.dll
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\bin\Debug\SKU.BLL.pdb
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\bin\Debug\SKU.DAL.dll
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\bin\Debug\SKU.Entities.dll
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\bin\Debug\SKU.DAL.pdb
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\bin\Debug\SKU.Entities.pdb
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\obj\Debug\SKU.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\obj\Debug\SKU.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\obj\Debug\SKU.BLL.dll
+C:\Users\Asus\Desktop\SkuService\SKU.BLL\obj\Debug\SKU.BLL.pdb

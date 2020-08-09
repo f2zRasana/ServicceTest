@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SkuService.dll.config
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SkuService.dll
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SkuService.pdb
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SKU.BLL.dll
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SKU.Entities.dll
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SKU.BLL.pdb
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SKU.Entities.pdb
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\SkuService\SkuService\obj\Debug\SKU.UIL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SkuService\SkuService\obj\Debug\SKU.UIL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SkuService\SkuService\obj\Debug\SkuService.dll
+C:\Users\Asus\Desktop\SkuService\SkuService\obj\Debug\SkuService.pdb
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SKU.DAL.dll
+C:\Users\Asus\Desktop\SkuService\SkuService\bin\SKU.DAL.pdb
